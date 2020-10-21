@@ -1,13 +1,15 @@
 import React from 'react';
+import Tilt from 'react-tilt';
 import './Signup.css';
 const Signup = ()=> {
 	return(
 			<div className = "Signup">
-				<div class="container">
+			<Tilt className="Tilt" options={{ max : 7 }}  >
+				<div className="container">
 						  <form action="/action_page.php">
 						    <div className="row">
 						      <h1 style = {{ textAlign:"center" }}>MOKO™</h1>
-						      <div class="vl">
+						      <div className="vl">
 						        <span className="vl-innertext">or</span>
 						      </div>
 
@@ -49,6 +51,7 @@ const Signup = ()=> {
 									    </div>
 									  </div>
 								</div>
+						</Tilt>
 							<footer>© 2020 MOKO™. All Rights Reserved.</footer>
 					</div>
 		);
