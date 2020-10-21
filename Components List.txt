@@ -1,0 +1,27 @@
+Components: 
+
+1) Sign-up Component
+2) Sign-In Component
+3) Messages Component
+4) List of Messages Component
+5) One-To-One Message Interaction Message Box Component
+ 	a) TextBox Component
+	b) Stickers Component
+	c) Send Button Component
+	d) Video-Call Component (Optional)
+	e) settings three dot component.
+6) User List Component
+7) Search Box Component
+
+Working Hour for Project:
+10:30 - 1:00 
+
+
+To do list
+Sign-up and sign In Component ---> Build
+Messaging Component ---> Build ()
+
+
+
+Done List
+Signup and sign In component ---> Built (21-10-2020 11:45 - 2:09AM)
